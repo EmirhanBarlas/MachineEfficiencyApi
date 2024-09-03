@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineEfficiencyApi", "MachineEfficiencyApi.csproj", "{4ECEA673-1FBC-46F4-9FD8-D600AF2B6808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECEA673-1FBC-46F4-9FD8-D600AF2B6808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECEA673-1FBC-46F4-9FD8-D600AF2B6808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECEA673-1FBC-46F4-9FD8-D600AF2B6808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECEA673-1FBC-46F4-9FD8-D600AF2B6808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD004E78-61A9-4504-9202-8E9B3B6BD60C}
+	EndGlobalSection
+EndGlobal

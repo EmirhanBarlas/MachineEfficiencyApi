@@ -1,0 +1,6 @@
+@MachineEfficiencyApi_HostAddress = http://localhost:5239
+
+GET {{MachineEfficiencyApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
